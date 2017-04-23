@@ -1,1 +1,1 @@
-## Parallelizing with OpenMp##
+## Parallelizing with OpenMp ##
